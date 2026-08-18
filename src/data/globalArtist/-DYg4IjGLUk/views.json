@@ -1,0 +1,728 @@
+{
+  "recentHourData": [
+    {
+      "videoId": "-DYg4IjGLUk",
+      "teamName": "OSAKA_OjoGang",
+      "viewCount": 2662161,
+      "commentCount": 25677,
+      "collectedAt": "2025-07-05 17:05:00"
+    },
+    {
+      "videoId": "-DYg4IjGLUk",
+      "teamName": "OSAKA_OjoGang",
+      "viewCount": 2663913,
+      "commentCount": 25779,
+      "collectedAt": "2025-07-05 17:10:00"
+    },
+    {
+      "videoId": "-DYg4IjGLUk",
+      "teamName": "OSAKA_OjoGang",
+      "viewCount": 2664743,
+      "commentCount": 25891,
+      "collectedAt": "2025-07-05 17:15:00"
+    },
+    {
+      "videoId": "-DYg4IjGLUk",
+      "teamName": "OSAKA_OjoGang",
+      "viewCount": 2665661,
+      "commentCount": 25993,
+      "collectedAt": "2025-07-05 17:20:00"
+    },
+    {
+      "videoId": "-DYg4IjGLUk",
+      "teamName": "OSAKA_OjoGang",
+      "viewCount": 2666922,
+      "commentCount": 26115,
+      "collectedAt": "2025-07-05 17:25:00"
+    },
+    {
+      "videoId": "-DYg4IjGLUk",
+      "teamName": "OSAKA_OjoGang",
+      "viewCount": 2667789,
+      "commentCount": 26218,
+      "collectedAt": "2025-07-05 17:30:00"
+    },
+    {
+      "videoId": "-DYg4IjGLUk",
+      "teamName": "OSAKA_OjoGang",
+      "viewCount": 2669352,
+      "commentCount": 26348,
+      "collectedAt": "2025-07-05 17:35:00"
+    },
+    {
+      "videoId": "-DYg4IjGLUk",
+      "teamName": "OSAKA_OjoGang",
+      "viewCount": 2669719,
+      "commentCount": 26527,
+      "collectedAt": "2025-07-05 17:40:00"
+    },
+    {
+      "videoId": "-DYg4IjGLUk",
+      "teamName": "OSAKA_OjoGang",
+      "viewCount": 2670677,
+      "commentCount": 26687,
+      "collectedAt": "2025-07-05 17:45:00"
+    },
+    {
+      "videoId": "-DYg4IjGLUk",
+      "teamName": "OSAKA_OjoGang",
+      "viewCount": 2672645,
+      "commentCount": 26851,
+      "collectedAt": "2025-07-05 17:50:00"
+    },
+    {
+      "videoId": "-DYg4IjGLUk",
+      "teamName": "OSAKA_OjoGang",
+      "viewCount": 2673485,
+      "commentCount": 27050,
+      "collectedAt": "2025-07-05 17:55:00"
+    },
+    {
+      "videoId": "-DYg4IjGLUk",
+      "teamName": "OSAKA_OjoGang",
+      "viewCount": 2673866,
+      "commentCount": 27275,
+      "collectedAt": "2025-07-05 18:00:00"
+    }
+  ],
+  "dailyData": {
+    "2025-07-05": [
+      {
+        "videoId": "-DYg4IjGLUk",
+        "teamName": "OSAKA_OjoGang",
+        "viewCount": 2462375,
+        "commentCount": 19468,
+        "collectedAt": "2025-07-05 00:00:00"
+      },
+      {
+        "videoId": "-DYg4IjGLUk",
+        "teamName": "OSAKA_OjoGang",
+        "viewCount": 2477707,
+        "commentCount": 19846,
+        "collectedAt": "2025-07-05 01:00:00"
+      },
+      {
+        "videoId": "-DYg4IjGLUk",
+        "teamName": "OSAKA_OjoGang",
+        "viewCount": 2498983,
+        "commentCount": 20363,
+        "collectedAt": "2025-07-05 02:00:00"
+      },
+      {
+        "videoId": "-DYg4IjGLUk",
+        "teamName": "OSAKA_OjoGang",
+        "viewCount": 2513207,
+        "commentCount": 20923,
+        "collectedAt": "2025-07-05 03:00:00"
+      },
+      {
+        "videoId": "-DYg4IjGLUk",
+        "teamName": "OSAKA_OjoGang",
+        "viewCount": 2533568,
+        "commentCount": 21268,
+        "collectedAt": "2025-07-05 04:00:00"
+      },
+      {
+        "videoId": "-DYg4IjGLUk",
+        "teamName": "OSAKA_OjoGang",
+        "viewCount": 2541027,
+        "commentCount": 21416,
+        "collectedAt": "2025-07-05 05:00:00"
+      },
+      {
+        "videoId": "-DYg4IjGLUk",
+        "teamName": "OSAKA_OjoGang",
+        "viewCount": 2545940,
+        "commentCount": 21500,
+        "collectedAt": "2025-07-05 06:00:00"
+      },
+      {
+        "videoId": "-DYg4IjGLUk",
+        "teamName": "OSAKA_OjoGang",
+        "viewCount": 2553929,
+        "commentCount": 21620,
+        "collectedAt": "2025-07-05 07:00:00"
+      },
+      {
+        "videoId": "-DYg4IjGLUk",
+        "teamName": "OSAKA_OjoGang",
+        "viewCount": 2554943,
+        "commentCount": 21749,
+        "collectedAt": "2025-07-05 08:00:00"
+      },
+      {
+        "videoId": "-DYg4IjGLUk",
+        "teamName": "OSAKA_OjoGang",
+        "viewCount": 2559350,
+        "commentCount": 21902,
+        "collectedAt": "2025-07-05 09:00:00"
+      },
+      {
+        "videoId": "-DYg4IjGLUk",
+        "teamName": "OSAKA_OjoGang",
+        "viewCount": 2566158,
+        "commentCount": 22145,
+        "collectedAt": "2025-07-05 10:00:00"
+      },
+      {
+        "videoId": "-DYg4IjGLUk",
+        "teamName": "OSAKA_OjoGang",
+        "viewCount": 2575523,
+        "commentCount": 22488,
+        "collectedAt": "2025-07-05 11:00:00"
+      },
+      {
+        "videoId": "-DYg4IjGLUk",
+        "teamName": "OSAKA_OjoGang",
+        "viewCount": 2585639,
+        "commentCount": 22832,
+        "collectedAt": "2025-07-05 12:00:00"
+      },
+      {
+        "videoId": "-DYg4IjGLUk",
+        "teamName": "OSAKA_OjoGang",
+        "viewCount": 2597819,
+        "commentCount": 23183,
+        "collectedAt": "2025-07-05 13:00:00"
+      },
+      {
+        "videoId": "-DYg4IjGLUk",
+        "teamName": "OSAKA_OjoGang",
+        "viewCount": 2614947,
+        "commentCount": 23610,
+        "collectedAt": "2025-07-05 14:00:00"
+      },
+      {
+        "videoId": "-DYg4IjGLUk",
+        "teamName": "OSAKA_OjoGang",
+        "viewCount": 2627485,
+        "commentCount": 24094,
+        "collectedAt": "2025-07-05 15:00:00"
+      },
+      {
+        "videoId": "-DYg4IjGLUk",
+        "teamName": "OSAKA_OjoGang",
+        "viewCount": 2643085,
+        "commentCount": 24676,
+        "collectedAt": "2025-07-05 16:00:00"
+      },
+      {
+        "videoId": "-DYg4IjGLUk",
+        "teamName": "OSAKA_OjoGang",
+        "viewCount": 2660463,
+        "commentCount": 25585,
+        "collectedAt": "2025-07-05 17:00:00"
+      },
+      {
+        "videoId": "-DYg4IjGLUk",
+        "teamName": "OSAKA_OjoGang",
+        "viewCount": 2673866,
+        "commentCount": 27275,
+        "collectedAt": "2025-07-05 18:00:00"
+      }
+    ],
+    "2025-07-04": [
+      {
+        "videoId": "-DYg4IjGLUk",
+        "teamName": "OSAKA_OjoGang",
+        "viewCount": 2145920,
+        "commentCount": 16352,
+        "collectedAt": "2025-07-04 00:00:00"
+      },
+      {
+        "videoId": "-DYg4IjGLUk",
+        "teamName": "OSAKA_OjoGang",
+        "viewCount": 2176946,
+        "commentCount": 16580,
+        "collectedAt": "2025-07-04 01:00:00"
+      },
+      {
+        "videoId": "-DYg4IjGLUk",
+        "teamName": "OSAKA_OjoGang",
+        "viewCount": 2201926,
+        "commentCount": 16765,
+        "collectedAt": "2025-07-04 02:00:00"
+      },
+      {
+        "videoId": "-DYg4IjGLUk",
+        "teamName": "OSAKA_OjoGang",
+        "viewCount": 2231740,
+        "commentCount": 16857,
+        "collectedAt": "2025-07-04 03:00:00"
+      },
+      {
+        "videoId": "-DYg4IjGLUk",
+        "teamName": "OSAKA_OjoGang",
+        "viewCount": 2249900,
+        "commentCount": 16930,
+        "collectedAt": "2025-07-04 04:00:00"
+      },
+      {
+        "videoId": "-DYg4IjGLUk",
+        "teamName": "OSAKA_OjoGang",
+        "viewCount": 2265497,
+        "commentCount": 16968,
+        "collectedAt": "2025-07-04 05:00:00"
+      },
+      {
+        "videoId": "-DYg4IjGLUk",
+        "teamName": "OSAKA_OjoGang",
+        "viewCount": 2274095,
+        "commentCount": 17039,
+        "collectedAt": "2025-07-04 06:00:00"
+      },
+      {
+        "videoId": "-DYg4IjGLUk",
+        "teamName": "OSAKA_OjoGang",
+        "viewCount": 2277983,
+        "commentCount": 17085,
+        "collectedAt": "2025-07-04 07:00:00"
+      },
+      {
+        "videoId": "-DYg4IjGLUk",
+        "teamName": "OSAKA_OjoGang",
+        "viewCount": 2280706,
+        "commentCount": 17139,
+        "collectedAt": "2025-07-04 08:00:00"
+      },
+      {
+        "videoId": "-DYg4IjGLUk",
+        "teamName": "OSAKA_OjoGang",
+        "viewCount": 2286590,
+        "commentCount": 17249,
+        "collectedAt": "2025-07-04 09:00:00"
+      },
+      {
+        "videoId": "-DYg4IjGLUk",
+        "teamName": "OSAKA_OjoGang",
+        "viewCount": 2293907,
+        "commentCount": 17344,
+        "collectedAt": "2025-07-04 10:00:00"
+      },
+      {
+        "videoId": "-DYg4IjGLUk",
+        "teamName": "OSAKA_OjoGang",
+        "viewCount": 2304233,
+        "commentCount": 17434,
+        "collectedAt": "2025-07-04 11:00:00"
+      },
+      {
+        "videoId": "-DYg4IjGLUk",
+        "teamName": "OSAKA_OjoGang",
+        "viewCount": 2314123,
+        "commentCount": 17581,
+        "collectedAt": "2025-07-04 12:00:00"
+      },
+      {
+        "videoId": "-DYg4IjGLUk",
+        "teamName": "OSAKA_OjoGang",
+        "viewCount": 2322614,
+        "commentCount": 17729,
+        "collectedAt": "2025-07-04 13:00:00"
+      },
+      {
+        "videoId": "-DYg4IjGLUk",
+        "teamName": "OSAKA_OjoGang",
+        "viewCount": 2334094,
+        "commentCount": 17922,
+        "collectedAt": "2025-07-04 14:00:00"
+      },
+      {
+        "videoId": "-DYg4IjGLUk",
+        "teamName": "OSAKA_OjoGang",
+        "viewCount": 2346833,
+        "commentCount": 18085,
+        "collectedAt": "2025-07-04 15:00:00"
+      },
+      {
+        "videoId": "-DYg4IjGLUk",
+        "teamName": "OSAKA_OjoGang",
+        "viewCount": 2360889,
+        "commentCount": 18236,
+        "collectedAt": "2025-07-04 16:00:00"
+      },
+      {
+        "videoId": "-DYg4IjGLUk",
+        "teamName": "OSAKA_OjoGang",
+        "viewCount": 2372650,
+        "commentCount": 18419,
+        "collectedAt": "2025-07-04 17:00:00"
+      },
+      {
+        "videoId": "-DYg4IjGLUk",
+        "teamName": "OSAKA_OjoGang",
+        "viewCount": 2383695,
+        "commentCount": 18570,
+        "collectedAt": "2025-07-04 18:00:00"
+      },
+      {
+        "videoId": "-DYg4IjGLUk",
+        "teamName": "OSAKA_OjoGang",
+        "viewCount": 2395415,
+        "commentCount": 18735,
+        "collectedAt": "2025-07-04 19:00:00"
+      },
+      {
+        "videoId": "-DYg4IjGLUk",
+        "teamName": "OSAKA_OjoGang",
+        "viewCount": 2407450,
+        "commentCount": 18727,
+        "collectedAt": "2025-07-04 20:00:00"
+      },
+      {
+        "videoId": "-DYg4IjGLUk",
+        "teamName": "OSAKA_OjoGang",
+        "viewCount": 2421417,
+        "commentCount": 18825,
+        "collectedAt": "2025-07-04 21:00:00"
+      },
+      {
+        "videoId": "-DYg4IjGLUk",
+        "teamName": "OSAKA_OjoGang",
+        "viewCount": 2433703,
+        "commentCount": 18928,
+        "collectedAt": "2025-07-04 22:00:00"
+      },
+      {
+        "videoId": "-DYg4IjGLUk",
+        "teamName": "OSAKA_OjoGang",
+        "viewCount": 2446000,
+        "commentCount": 19129,
+        "collectedAt": "2025-07-04 23:00:00"
+      }
+    ],
+    "2025-07-03": [
+      {
+        "videoId": "-DYg4IjGLUk",
+        "teamName": "OSAKA_OjoGang",
+        "viewCount": 1559591,
+        "commentCount": 12585,
+        "collectedAt": "2025-07-03 00:00:00"
+      },
+      {
+        "videoId": "-DYg4IjGLUk",
+        "teamName": "OSAKA_OjoGang",
+        "viewCount": 1635367,
+        "commentCount": 12882,
+        "collectedAt": "2025-07-03 01:00:00"
+      },
+      {
+        "videoId": "-DYg4IjGLUk",
+        "teamName": "OSAKA_OjoGang",
+        "viewCount": 1688915,
+        "commentCount": 13059,
+        "collectedAt": "2025-07-03 02:00:00"
+      },
+      {
+        "videoId": "-DYg4IjGLUk",
+        "teamName": "OSAKA_OjoGang",
+        "viewCount": 1743148,
+        "commentCount": 13224,
+        "collectedAt": "2025-07-03 03:00:00"
+      },
+      {
+        "videoId": "-DYg4IjGLUk",
+        "teamName": "OSAKA_OjoGang",
+        "viewCount": 1766476,
+        "commentCount": 13340,
+        "collectedAt": "2025-07-03 04:00:00"
+      },
+      {
+        "videoId": "-DYg4IjGLUk",
+        "teamName": "OSAKA_OjoGang",
+        "viewCount": 1798852,
+        "commentCount": 13419,
+        "collectedAt": "2025-07-03 05:00:00"
+      },
+      {
+        "videoId": "-DYg4IjGLUk",
+        "teamName": "OSAKA_OjoGang",
+        "viewCount": 1809442,
+        "commentCount": 13460,
+        "collectedAt": "2025-07-03 06:00:00"
+      },
+      {
+        "videoId": "-DYg4IjGLUk",
+        "teamName": "OSAKA_OjoGang",
+        "viewCount": 1817618,
+        "commentCount": 13515,
+        "collectedAt": "2025-07-03 07:00:00"
+      },
+      {
+        "videoId": "-DYg4IjGLUk",
+        "teamName": "OSAKA_OjoGang",
+        "viewCount": 1824088,
+        "commentCount": 13605,
+        "collectedAt": "2025-07-03 08:00:00"
+      },
+      {
+        "videoId": "-DYg4IjGLUk",
+        "teamName": "OSAKA_OjoGang",
+        "viewCount": 1834000,
+        "commentCount": 13687,
+        "collectedAt": "2025-07-03 09:00:00"
+      },
+      {
+        "videoId": "-DYg4IjGLUk",
+        "teamName": "OSAKA_OjoGang",
+        "viewCount": 1850509,
+        "commentCount": 13820,
+        "collectedAt": "2025-07-03 10:00:00"
+      },
+      {
+        "videoId": "-DYg4IjGLUk",
+        "teamName": "OSAKA_OjoGang",
+        "viewCount": 1867405,
+        "commentCount": 13962,
+        "collectedAt": "2025-07-03 11:00:00"
+      },
+      {
+        "videoId": "-DYg4IjGLUk",
+        "teamName": "OSAKA_OjoGang",
+        "viewCount": 1886150,
+        "commentCount": 14136,
+        "collectedAt": "2025-07-03 12:00:00"
+      },
+      {
+        "videoId": "-DYg4IjGLUk",
+        "teamName": "OSAKA_OjoGang",
+        "viewCount": 1903768,
+        "commentCount": 14276,
+        "collectedAt": "2025-07-03 13:00:00"
+      },
+      {
+        "videoId": "-DYg4IjGLUk",
+        "teamName": "OSAKA_OjoGang",
+        "viewCount": 1923300,
+        "commentCount": 14463,
+        "collectedAt": "2025-07-03 14:00:00"
+      },
+      {
+        "videoId": "-DYg4IjGLUk",
+        "teamName": "OSAKA_OjoGang",
+        "viewCount": 1947096,
+        "commentCount": 14664,
+        "collectedAt": "2025-07-03 15:00:00"
+      },
+      {
+        "videoId": "-DYg4IjGLUk",
+        "teamName": "OSAKA_OjoGang",
+        "viewCount": 1969288,
+        "commentCount": 14862,
+        "collectedAt": "2025-07-03 16:00:00"
+      },
+      {
+        "videoId": "-DYg4IjGLUk",
+        "teamName": "OSAKA_OjoGang",
+        "viewCount": 1989420,
+        "commentCount": 14998,
+        "collectedAt": "2025-07-03 17:00:00"
+      },
+      {
+        "videoId": "-DYg4IjGLUk",
+        "teamName": "OSAKA_OjoGang",
+        "viewCount": 2005489,
+        "commentCount": 15146,
+        "collectedAt": "2025-07-03 18:00:00"
+      },
+      {
+        "videoId": "-DYg4IjGLUk",
+        "teamName": "OSAKA_OjoGang",
+        "viewCount": 2034625,
+        "commentCount": 15324,
+        "collectedAt": "2025-07-03 19:00:00"
+      },
+      {
+        "videoId": "-DYg4IjGLUk",
+        "teamName": "OSAKA_OjoGang",
+        "viewCount": 2056818,
+        "commentCount": 15467,
+        "collectedAt": "2025-07-03 20:00:00"
+      },
+      {
+        "videoId": "-DYg4IjGLUk",
+        "teamName": "OSAKA_OjoGang",
+        "viewCount": 2075489,
+        "commentCount": 15651,
+        "collectedAt": "2025-07-03 21:00:00"
+      },
+      {
+        "videoId": "-DYg4IjGLUk",
+        "teamName": "OSAKA_OjoGang",
+        "viewCount": 2096514,
+        "commentCount": 15888,
+        "collectedAt": "2025-07-03 22:00:00"
+      },
+      {
+        "videoId": "-DYg4IjGLUk",
+        "teamName": "OSAKA_OjoGang",
+        "viewCount": 2113449,
+        "commentCount": 16137,
+        "collectedAt": "2025-07-03 23:00:00"
+      }
+    ],
+    "2025-07-02": [
+      {
+        "videoId": "-DYg4IjGLUk",
+        "teamName": "OSAKA_OjoGang",
+        "viewCount": 43987,
+        "commentCount": 966,
+        "collectedAt": "2025-07-02 01:30:00"
+      },
+      {
+        "videoId": "-DYg4IjGLUk",
+        "teamName": "OSAKA_OjoGang",
+        "viewCount": 168253,
+        "commentCount": 2974,
+        "collectedAt": "2025-07-02 02:00:00"
+      },
+      {
+        "videoId": "-DYg4IjGLUk",
+        "teamName": "OSAKA_OjoGang",
+        "viewCount": 242934,
+        "commentCount": 4402,
+        "collectedAt": "2025-07-02 03:00:00"
+      },
+      {
+        "videoId": "-DYg4IjGLUk",
+        "teamName": "OSAKA_OjoGang",
+        "viewCount": 313989,
+        "commentCount": 4873,
+        "collectedAt": "2025-07-02 04:00:00"
+      },
+      {
+        "videoId": "-DYg4IjGLUk",
+        "teamName": "OSAKA_OjoGang",
+        "viewCount": 395373,
+        "commentCount": 5157,
+        "collectedAt": "2025-07-02 05:00:00"
+      },
+      {
+        "videoId": "-DYg4IjGLUk",
+        "teamName": "OSAKA_OjoGang",
+        "viewCount": 450160,
+        "commentCount": 5325,
+        "collectedAt": "2025-07-02 06:00:00"
+      },
+      {
+        "videoId": "-DYg4IjGLUk",
+        "teamName": "OSAKA_OjoGang",
+        "viewCount": 481288,
+        "commentCount": 5548,
+        "collectedAt": "2025-07-02 07:00:00"
+      },
+      {
+        "videoId": "-DYg4IjGLUk",
+        "teamName": "OSAKA_OjoGang",
+        "viewCount": 516857,
+        "commentCount": 5895,
+        "collectedAt": "2025-07-02 08:00:00"
+      },
+      {
+        "videoId": "-DYg4IjGLUk",
+        "teamName": "OSAKA_OjoGang",
+        "viewCount": 567014,
+        "commentCount": 6401,
+        "collectedAt": "2025-07-02 09:00:00"
+      },
+      {
+        "videoId": "-DYg4IjGLUk",
+        "teamName": "OSAKA_OjoGang",
+        "viewCount": 647243,
+        "commentCount": 6862,
+        "collectedAt": "2025-07-02 10:00:00"
+      },
+      {
+        "videoId": "-DYg4IjGLUk",
+        "teamName": "OSAKA_OjoGang",
+        "viewCount": 730457,
+        "commentCount": 7388,
+        "collectedAt": "2025-07-02 11:00:00"
+      },
+      {
+        "videoId": "-DYg4IjGLUk",
+        "teamName": "OSAKA_OjoGang",
+        "viewCount": 806003,
+        "commentCount": 7981,
+        "collectedAt": "2025-07-02 12:00:00"
+      },
+      {
+        "videoId": "-DYg4IjGLUk",
+        "teamName": "OSAKA_OjoGang",
+        "viewCount": 879868,
+        "commentCount": 8483,
+        "collectedAt": "2025-07-02 13:00:00"
+      },
+      {
+        "videoId": "-DYg4IjGLUk",
+        "teamName": "OSAKA_OjoGang",
+        "viewCount": 947608,
+        "commentCount": 9025,
+        "collectedAt": "2025-07-02 14:00:00"
+      },
+      {
+        "videoId": "-DYg4IjGLUk",
+        "teamName": "OSAKA_OjoGang",
+        "viewCount": 1020570,
+        "commentCount": 9626,
+        "collectedAt": "2025-07-02 15:00:01"
+      },
+      {
+        "videoId": "-DYg4IjGLUk",
+        "teamName": "OSAKA_OjoGang",
+        "viewCount": 1099430,
+        "commentCount": 10020,
+        "collectedAt": "2025-07-02 16:00:00"
+      },
+      {
+        "videoId": "-DYg4IjGLUk",
+        "teamName": "OSAKA_OjoGang",
+        "viewCount": 1156284,
+        "commentCount": 10355,
+        "collectedAt": "2025-07-02 17:00:00"
+      },
+      {
+        "videoId": "-DYg4IjGLUk",
+        "teamName": "OSAKA_OjoGang",
+        "viewCount": 1216872,
+        "commentCount": 10687,
+        "collectedAt": "2025-07-02 18:00:00"
+      },
+      {
+        "videoId": "-DYg4IjGLUk",
+        "teamName": "OSAKA_OjoGang",
+        "viewCount": 1274786,
+        "commentCount": 11091,
+        "collectedAt": "2025-07-02 19:00:00"
+      },
+      {
+        "videoId": "-DYg4IjGLUk",
+        "teamName": "OSAKA_OjoGang",
+        "viewCount": 1331047,
+        "commentCount": 11387,
+        "collectedAt": "2025-07-02 20:00:00"
+      },
+      {
+        "videoId": "-DYg4IjGLUk",
+        "teamName": "OSAKA_OjoGang",
+        "viewCount": 1379816,
+        "commentCount": 11628,
+        "collectedAt": "2025-07-02 21:00:00"
+      },
+      {
+        "videoId": "-DYg4IjGLUk",
+        "teamName": "OSAKA_OjoGang",
+        "viewCount": 1441192,
+        "commentCount": 11901,
+        "collectedAt": "2025-07-02 22:00:00"
+      },
+      {
+        "videoId": "-DYg4IjGLUk",
+        "teamName": "OSAKA_OjoGang",
+        "viewCount": 1495598,
+        "commentCount": 12254,
+        "collectedAt": "2025-07-02 23:00:00"
+      }
+    ]
+  }
+}

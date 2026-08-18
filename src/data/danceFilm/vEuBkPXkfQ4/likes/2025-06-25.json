@@ -1,0 +1,86 @@
+[
+  {
+    "id": "685bac805618c88f04de7f9b",
+    "videoId": "vEuBkPXkfQ4",
+    "teamName": "MOTIV",
+    "likes": 0,
+    "dislikes": 7,
+    "rawLikes": 65400,
+    "rawDislikes": 600,
+    "viewCount": 576925,
+    "dateCreated": "2025-06-25T16:48:46.278",
+    "collectedAt": "2025-06-25T17:00:00.83"
+  },
+  {
+    "id": "685bba915618c88f04de7fe1",
+    "videoId": "vEuBkPXkfQ4",
+    "teamName": "MOTIV",
+    "likes": 0,
+    "dislikes": 9,
+    "rawLikes": 67600,
+    "rawDislikes": 700,
+    "viewCount": 599969,
+    "dateCreated": "2025-06-25T17:54:49.369",
+    "collectedAt": "2025-06-25T18:00:01.139"
+  },
+  {
+    "id": "685bc8a05618c88f04de8027",
+    "videoId": "vEuBkPXkfQ4",
+    "teamName": "MOTIV",
+    "likes": 0,
+    "dislikes": 9,
+    "rawLikes": 69600,
+    "rawDislikes": 700,
+    "viewCount": 625857,
+    "dateCreated": "2025-06-25T18:52:01.809",
+    "collectedAt": "2025-06-25T19:00:00.823"
+  },
+  {
+    "id": "685bd6b05618c88f04de806d",
+    "videoId": "vEuBkPXkfQ4",
+    "teamName": "MOTIV",
+    "likes": 0,
+    "dislikes": 10,
+    "rawLikes": 71000,
+    "rawDislikes": 800,
+    "viewCount": 647803,
+    "dateCreated": "2025-06-25T19:44:41.514",
+    "collectedAt": "2025-06-25T20:00:00.866"
+  },
+  {
+    "id": "685be4c05618c88f04de80b3",
+    "videoId": "vEuBkPXkfQ4",
+    "teamName": "MOTIV",
+    "likes": 0,
+    "dislikes": 10,
+    "rawLikes": 72000,
+    "rawDislikes": 800,
+    "viewCount": 670075,
+    "dateCreated": "2025-06-25T20:53:04.206",
+    "collectedAt": "2025-06-25T21:00:00.959"
+  },
+  {
+    "id": "685bf2d05618c88f04de80f9",
+    "videoId": "vEuBkPXkfQ4",
+    "teamName": "MOTIV",
+    "likes": 0,
+    "dislikes": 10,
+    "rawLikes": 73800,
+    "rawDislikes": 800,
+    "viewCount": 689431,
+    "dateCreated": "2025-06-25T21:42:24.505",
+    "collectedAt": "2025-06-25T22:00:00.826"
+  },
+  {
+    "id": "685c00e15618c88f04de813f",
+    "videoId": "vEuBkPXkfQ4",
+    "teamName": "MOTIV",
+    "likes": 0,
+    "dislikes": 10,
+    "rawLikes": 75800,
+    "rawDislikes": 800,
+    "viewCount": 718117,
+    "dateCreated": "2025-06-25T22:52:54.136",
+    "collectedAt": "2025-06-25T23:00:01.13"
+  }
+]

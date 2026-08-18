@@ -1,0 +1,728 @@
+{
+  "recentHourData": [
+    {
+      "videoId": "da68UOXfQ_s",
+      "teamName": "AGSQUAD",
+      "viewCount": 2444889,
+      "commentCount": 26333,
+      "collectedAt": "2025-07-05 17:05:00"
+    },
+    {
+      "videoId": "da68UOXfQ_s",
+      "teamName": "AGSQUAD",
+      "viewCount": 2445602,
+      "commentCount": 26341,
+      "collectedAt": "2025-07-05 17:10:00"
+    },
+    {
+      "videoId": "da68UOXfQ_s",
+      "teamName": "AGSQUAD",
+      "viewCount": 2446328,
+      "commentCount": 26363,
+      "collectedAt": "2025-07-05 17:15:00"
+    },
+    {
+      "videoId": "da68UOXfQ_s",
+      "teamName": "AGSQUAD",
+      "viewCount": 2446802,
+      "commentCount": 26391,
+      "collectedAt": "2025-07-05 17:20:00"
+    },
+    {
+      "videoId": "da68UOXfQ_s",
+      "teamName": "AGSQUAD",
+      "viewCount": 2447320,
+      "commentCount": 26418,
+      "collectedAt": "2025-07-05 17:25:00"
+    },
+    {
+      "videoId": "da68UOXfQ_s",
+      "teamName": "AGSQUAD",
+      "viewCount": 2448172,
+      "commentCount": 26452,
+      "collectedAt": "2025-07-05 17:30:00"
+    },
+    {
+      "videoId": "da68UOXfQ_s",
+      "teamName": "AGSQUAD",
+      "viewCount": 2449028,
+      "commentCount": 26477,
+      "collectedAt": "2025-07-05 17:35:00"
+    },
+    {
+      "videoId": "da68UOXfQ_s",
+      "teamName": "AGSQUAD",
+      "viewCount": 2449453,
+      "commentCount": 26514,
+      "collectedAt": "2025-07-05 17:40:00"
+    },
+    {
+      "videoId": "da68UOXfQ_s",
+      "teamName": "AGSQUAD",
+      "viewCount": 2449982,
+      "commentCount": 26534,
+      "collectedAt": "2025-07-05 17:45:00"
+    },
+    {
+      "videoId": "da68UOXfQ_s",
+      "teamName": "AGSQUAD",
+      "viewCount": 2450814,
+      "commentCount": 26557,
+      "collectedAt": "2025-07-05 17:50:00"
+    },
+    {
+      "videoId": "da68UOXfQ_s",
+      "teamName": "AGSQUAD",
+      "viewCount": 2451325,
+      "commentCount": 26586,
+      "collectedAt": "2025-07-05 17:55:00"
+    },
+    {
+      "videoId": "da68UOXfQ_s",
+      "teamName": "AGSQUAD",
+      "viewCount": 2451780,
+      "commentCount": 26609,
+      "collectedAt": "2025-07-05 18:00:00"
+    }
+  ],
+  "dailyData": {
+    "2025-07-05": [
+      {
+        "videoId": "da68UOXfQ_s",
+        "teamName": "AGSQUAD",
+        "viewCount": 2284027,
+        "commentCount": 24373,
+        "collectedAt": "2025-07-05 00:00:00"
+      },
+      {
+        "videoId": "da68UOXfQ_s",
+        "teamName": "AGSQUAD",
+        "viewCount": 2297711,
+        "commentCount": 24538,
+        "collectedAt": "2025-07-05 01:00:00"
+      },
+      {
+        "videoId": "da68UOXfQ_s",
+        "teamName": "AGSQUAD",
+        "viewCount": 2314417,
+        "commentCount": 24670,
+        "collectedAt": "2025-07-05 02:00:00"
+      },
+      {
+        "videoId": "da68UOXfQ_s",
+        "teamName": "AGSQUAD",
+        "viewCount": 2327746,
+        "commentCount": 24695,
+        "collectedAt": "2025-07-05 03:00:00"
+      },
+      {
+        "videoId": "da68UOXfQ_s",
+        "teamName": "AGSQUAD",
+        "viewCount": 2343809,
+        "commentCount": 24826,
+        "collectedAt": "2025-07-05 04:00:00"
+      },
+      {
+        "videoId": "da68UOXfQ_s",
+        "teamName": "AGSQUAD",
+        "viewCount": 2349834,
+        "commentCount": 24906,
+        "collectedAt": "2025-07-05 05:00:00"
+      },
+      {
+        "videoId": "da68UOXfQ_s",
+        "teamName": "AGSQUAD",
+        "viewCount": 2355126,
+        "commentCount": 25010,
+        "collectedAt": "2025-07-05 06:00:00"
+      },
+      {
+        "videoId": "da68UOXfQ_s",
+        "teamName": "AGSQUAD",
+        "viewCount": 2363870,
+        "commentCount": 25107,
+        "collectedAt": "2025-07-05 07:00:00"
+      },
+      {
+        "videoId": "da68UOXfQ_s",
+        "teamName": "AGSQUAD",
+        "viewCount": 2367331,
+        "commentCount": 25206,
+        "collectedAt": "2025-07-05 08:00:00"
+      },
+      {
+        "videoId": "da68UOXfQ_s",
+        "teamName": "AGSQUAD",
+        "viewCount": 2371788,
+        "commentCount": 25270,
+        "collectedAt": "2025-07-05 09:00:00"
+      },
+      {
+        "videoId": "da68UOXfQ_s",
+        "teamName": "AGSQUAD",
+        "viewCount": 2377184,
+        "commentCount": 25374,
+        "collectedAt": "2025-07-05 10:00:00"
+      },
+      {
+        "videoId": "da68UOXfQ_s",
+        "teamName": "AGSQUAD",
+        "viewCount": 2383768,
+        "commentCount": 25489,
+        "collectedAt": "2025-07-05 11:00:00"
+      },
+      {
+        "videoId": "da68UOXfQ_s",
+        "teamName": "AGSQUAD",
+        "viewCount": 2390785,
+        "commentCount": 25589,
+        "collectedAt": "2025-07-05 12:00:00"
+      },
+      {
+        "videoId": "da68UOXfQ_s",
+        "teamName": "AGSQUAD",
+        "viewCount": 2399196,
+        "commentCount": 25713,
+        "collectedAt": "2025-07-05 13:00:00"
+      },
+      {
+        "videoId": "da68UOXfQ_s",
+        "teamName": "AGSQUAD",
+        "viewCount": 2411363,
+        "commentCount": 25885,
+        "collectedAt": "2025-07-05 14:00:00"
+      },
+      {
+        "videoId": "da68UOXfQ_s",
+        "teamName": "AGSQUAD",
+        "viewCount": 2420579,
+        "commentCount": 26013,
+        "collectedAt": "2025-07-05 15:00:00"
+      },
+      {
+        "videoId": "da68UOXfQ_s",
+        "teamName": "AGSQUAD",
+        "viewCount": 2431277,
+        "commentCount": 26172,
+        "collectedAt": "2025-07-05 16:00:00"
+      },
+      {
+        "videoId": "da68UOXfQ_s",
+        "teamName": "AGSQUAD",
+        "viewCount": 2443502,
+        "commentCount": 26316,
+        "collectedAt": "2025-07-05 17:00:00"
+      },
+      {
+        "videoId": "da68UOXfQ_s",
+        "teamName": "AGSQUAD",
+        "viewCount": 2451780,
+        "commentCount": 26609,
+        "collectedAt": "2025-07-05 18:00:00"
+      }
+    ],
+    "2025-07-04": [
+      {
+        "videoId": "da68UOXfQ_s",
+        "teamName": "AGSQUAD",
+        "viewCount": 1978164,
+        "commentCount": 21743,
+        "collectedAt": "2025-07-04 00:00:00"
+      },
+      {
+        "videoId": "da68UOXfQ_s",
+        "teamName": "AGSQUAD",
+        "viewCount": 2006639,
+        "commentCount": 21997,
+        "collectedAt": "2025-07-04 01:00:00"
+      },
+      {
+        "videoId": "da68UOXfQ_s",
+        "teamName": "AGSQUAD",
+        "viewCount": 2029723,
+        "commentCount": 22120,
+        "collectedAt": "2025-07-04 02:00:00"
+      },
+      {
+        "videoId": "da68UOXfQ_s",
+        "teamName": "AGSQUAD",
+        "viewCount": 2057916,
+        "commentCount": 22246,
+        "collectedAt": "2025-07-04 03:00:00"
+      },
+      {
+        "videoId": "da68UOXfQ_s",
+        "teamName": "AGSQUAD",
+        "viewCount": 2076448,
+        "commentCount": 22322,
+        "collectedAt": "2025-07-04 04:00:00"
+      },
+      {
+        "videoId": "da68UOXfQ_s",
+        "teamName": "AGSQUAD",
+        "viewCount": 2089856,
+        "commentCount": 22414,
+        "collectedAt": "2025-07-04 05:00:00"
+      },
+      {
+        "videoId": "da68UOXfQ_s",
+        "teamName": "AGSQUAD",
+        "viewCount": 2097565,
+        "commentCount": 22505,
+        "collectedAt": "2025-07-04 06:00:00"
+      },
+      {
+        "videoId": "da68UOXfQ_s",
+        "teamName": "AGSQUAD",
+        "viewCount": 2103109,
+        "commentCount": 22563,
+        "collectedAt": "2025-07-04 07:00:00"
+      },
+      {
+        "videoId": "da68UOXfQ_s",
+        "teamName": "AGSQUAD",
+        "viewCount": 2107870,
+        "commentCount": 22622,
+        "collectedAt": "2025-07-04 08:00:00"
+      },
+      {
+        "videoId": "da68UOXfQ_s",
+        "teamName": "AGSQUAD",
+        "viewCount": 2114094,
+        "commentCount": 22737,
+        "collectedAt": "2025-07-04 09:00:00"
+      },
+      {
+        "videoId": "da68UOXfQ_s",
+        "teamName": "AGSQUAD",
+        "viewCount": 2120647,
+        "commentCount": 22851,
+        "collectedAt": "2025-07-04 10:00:00"
+      },
+      {
+        "videoId": "da68UOXfQ_s",
+        "teamName": "AGSQUAD",
+        "viewCount": 2130572,
+        "commentCount": 22957,
+        "collectedAt": "2025-07-04 11:00:00"
+      },
+      {
+        "videoId": "da68UOXfQ_s",
+        "teamName": "AGSQUAD",
+        "viewCount": 2140352,
+        "commentCount": 23086,
+        "collectedAt": "2025-07-04 12:00:00"
+      },
+      {
+        "videoId": "da68UOXfQ_s",
+        "teamName": "AGSQUAD",
+        "viewCount": 2149015,
+        "commentCount": 23202,
+        "collectedAt": "2025-07-04 13:00:00"
+      },
+      {
+        "videoId": "da68UOXfQ_s",
+        "teamName": "AGSQUAD",
+        "viewCount": 2160455,
+        "commentCount": 23344,
+        "collectedAt": "2025-07-04 14:00:00"
+      },
+      {
+        "videoId": "da68UOXfQ_s",
+        "teamName": "AGSQUAD",
+        "viewCount": 2173340,
+        "commentCount": 23467,
+        "collectedAt": "2025-07-04 15:00:00"
+      },
+      {
+        "videoId": "da68UOXfQ_s",
+        "teamName": "AGSQUAD",
+        "viewCount": 2186531,
+        "commentCount": 23578,
+        "collectedAt": "2025-07-04 16:00:00"
+      },
+      {
+        "videoId": "da68UOXfQ_s",
+        "teamName": "AGSQUAD",
+        "viewCount": 2198214,
+        "commentCount": 23665,
+        "collectedAt": "2025-07-04 17:00:00"
+      },
+      {
+        "videoId": "da68UOXfQ_s",
+        "teamName": "AGSQUAD",
+        "viewCount": 2209040,
+        "commentCount": 23815,
+        "collectedAt": "2025-07-04 18:00:00"
+      },
+      {
+        "videoId": "da68UOXfQ_s",
+        "teamName": "AGSQUAD",
+        "viewCount": 2219784,
+        "commentCount": 23900,
+        "collectedAt": "2025-07-04 19:00:00"
+      },
+      {
+        "videoId": "da68UOXfQ_s",
+        "teamName": "AGSQUAD",
+        "viewCount": 2231476,
+        "commentCount": 23981,
+        "collectedAt": "2025-07-04 20:00:00"
+      },
+      {
+        "videoId": "da68UOXfQ_s",
+        "teamName": "AGSQUAD",
+        "viewCount": 2244831,
+        "commentCount": 24067,
+        "collectedAt": "2025-07-04 21:00:00"
+      },
+      {
+        "videoId": "da68UOXfQ_s",
+        "teamName": "AGSQUAD",
+        "viewCount": 2256721,
+        "commentCount": 24164,
+        "collectedAt": "2025-07-04 22:00:00"
+      },
+      {
+        "videoId": "da68UOXfQ_s",
+        "teamName": "AGSQUAD",
+        "viewCount": 2268184,
+        "commentCount": 24264,
+        "collectedAt": "2025-07-04 23:00:00"
+      }
+    ],
+    "2025-07-03": [
+      {
+        "videoId": "da68UOXfQ_s",
+        "teamName": "AGSQUAD",
+        "viewCount": 1451404,
+        "commentCount": 17388,
+        "collectedAt": "2025-07-03 00:00:00"
+      },
+      {
+        "videoId": "da68UOXfQ_s",
+        "teamName": "AGSQUAD",
+        "viewCount": 1515831,
+        "commentCount": 17682,
+        "collectedAt": "2025-07-03 01:00:00"
+      },
+      {
+        "videoId": "da68UOXfQ_s",
+        "teamName": "AGSQUAD",
+        "viewCount": 1561910,
+        "commentCount": 17929,
+        "collectedAt": "2025-07-03 02:00:00"
+      },
+      {
+        "videoId": "da68UOXfQ_s",
+        "teamName": "AGSQUAD",
+        "viewCount": 1609453,
+        "commentCount": 18147,
+        "collectedAt": "2025-07-03 03:00:00"
+      },
+      {
+        "videoId": "da68UOXfQ_s",
+        "teamName": "AGSQUAD",
+        "viewCount": 1632172,
+        "commentCount": 18272,
+        "collectedAt": "2025-07-03 04:00:00"
+      },
+      {
+        "videoId": "da68UOXfQ_s",
+        "teamName": "AGSQUAD",
+        "viewCount": 1663824,
+        "commentCount": 18415,
+        "collectedAt": "2025-07-03 05:00:00"
+      },
+      {
+        "videoId": "da68UOXfQ_s",
+        "teamName": "AGSQUAD",
+        "viewCount": 1675648,
+        "commentCount": 18543,
+        "collectedAt": "2025-07-03 06:00:00"
+      },
+      {
+        "videoId": "da68UOXfQ_s",
+        "teamName": "AGSQUAD",
+        "viewCount": 1685269,
+        "commentCount": 18665,
+        "collectedAt": "2025-07-03 07:00:00"
+      },
+      {
+        "videoId": "da68UOXfQ_s",
+        "teamName": "AGSQUAD",
+        "viewCount": 1693082,
+        "commentCount": 18778,
+        "collectedAt": "2025-07-03 08:00:00"
+      },
+      {
+        "videoId": "da68UOXfQ_s",
+        "teamName": "AGSQUAD",
+        "viewCount": 1703015,
+        "commentCount": 18902,
+        "collectedAt": "2025-07-03 09:00:00"
+      },
+      {
+        "videoId": "da68UOXfQ_s",
+        "teamName": "AGSQUAD",
+        "viewCount": 1717052,
+        "commentCount": 19068,
+        "collectedAt": "2025-07-03 10:00:00"
+      },
+      {
+        "videoId": "da68UOXfQ_s",
+        "teamName": "AGSQUAD",
+        "viewCount": 1731673,
+        "commentCount": 19223,
+        "collectedAt": "2025-07-03 11:00:00"
+      },
+      {
+        "videoId": "da68UOXfQ_s",
+        "teamName": "AGSQUAD",
+        "viewCount": 1748228,
+        "commentCount": 19389,
+        "collectedAt": "2025-07-03 12:00:00"
+      },
+      {
+        "videoId": "da68UOXfQ_s",
+        "teamName": "AGSQUAD",
+        "viewCount": 1765008,
+        "commentCount": 19573,
+        "collectedAt": "2025-07-03 13:00:00"
+      },
+      {
+        "videoId": "da68UOXfQ_s",
+        "teamName": "AGSQUAD",
+        "viewCount": 1783019,
+        "commentCount": 19733,
+        "collectedAt": "2025-07-03 14:00:00"
+      },
+      {
+        "videoId": "da68UOXfQ_s",
+        "teamName": "AGSQUAD",
+        "viewCount": 1802882,
+        "commentCount": 19945,
+        "collectedAt": "2025-07-03 15:00:00"
+      },
+      {
+        "videoId": "da68UOXfQ_s",
+        "teamName": "AGSQUAD",
+        "viewCount": 1823794,
+        "commentCount": 20130,
+        "collectedAt": "2025-07-03 16:00:00"
+      },
+      {
+        "videoId": "da68UOXfQ_s",
+        "teamName": "AGSQUAD",
+        "viewCount": 1840445,
+        "commentCount": 20368,
+        "collectedAt": "2025-07-03 17:00:00"
+      },
+      {
+        "videoId": "da68UOXfQ_s",
+        "teamName": "AGSQUAD",
+        "viewCount": 1856768,
+        "commentCount": 20529,
+        "collectedAt": "2025-07-03 18:00:00"
+      },
+      {
+        "videoId": "da68UOXfQ_s",
+        "teamName": "AGSQUAD",
+        "viewCount": 1881214,
+        "commentCount": 20685,
+        "collectedAt": "2025-07-03 19:00:00"
+      },
+      {
+        "videoId": "da68UOXfQ_s",
+        "teamName": "AGSQUAD",
+        "viewCount": 1898696,
+        "commentCount": 20888,
+        "collectedAt": "2025-07-03 20:00:00"
+      },
+      {
+        "videoId": "da68UOXfQ_s",
+        "teamName": "AGSQUAD",
+        "viewCount": 1913464,
+        "commentCount": 21107,
+        "collectedAt": "2025-07-03 21:00:00"
+      },
+      {
+        "videoId": "da68UOXfQ_s",
+        "teamName": "AGSQUAD",
+        "viewCount": 1933200,
+        "commentCount": 21311,
+        "collectedAt": "2025-07-03 22:00:00"
+      },
+      {
+        "videoId": "da68UOXfQ_s",
+        "teamName": "AGSQUAD",
+        "viewCount": 1947838,
+        "commentCount": 21554,
+        "collectedAt": "2025-07-03 23:00:00"
+      }
+    ],
+    "2025-07-02": [
+      {
+        "videoId": "da68UOXfQ_s",
+        "teamName": "AGSQUAD",
+        "viewCount": 46782,
+        "commentCount": 1163,
+        "collectedAt": "2025-07-02 01:30:00"
+      },
+      {
+        "videoId": "da68UOXfQ_s",
+        "teamName": "AGSQUAD",
+        "viewCount": 170638,
+        "commentCount": 4209,
+        "collectedAt": "2025-07-02 02:00:00"
+      },
+      {
+        "videoId": "da68UOXfQ_s",
+        "teamName": "AGSQUAD",
+        "viewCount": 244048,
+        "commentCount": 6651,
+        "collectedAt": "2025-07-02 03:00:00"
+      },
+      {
+        "videoId": "da68UOXfQ_s",
+        "teamName": "AGSQUAD",
+        "viewCount": 317819,
+        "commentCount": 7613,
+        "collectedAt": "2025-07-02 04:00:00"
+      },
+      {
+        "videoId": "da68UOXfQ_s",
+        "teamName": "AGSQUAD",
+        "viewCount": 394569,
+        "commentCount": 8063,
+        "collectedAt": "2025-07-02 05:00:00"
+      },
+      {
+        "videoId": "da68UOXfQ_s",
+        "teamName": "AGSQUAD",
+        "viewCount": 458808,
+        "commentCount": 8466,
+        "collectedAt": "2025-07-02 06:00:00"
+      },
+      {
+        "videoId": "da68UOXfQ_s",
+        "teamName": "AGSQUAD",
+        "viewCount": 494702,
+        "commentCount": 8869,
+        "collectedAt": "2025-07-02 07:00:00"
+      },
+      {
+        "videoId": "da68UOXfQ_s",
+        "teamName": "AGSQUAD",
+        "viewCount": 533372,
+        "commentCount": 9375,
+        "collectedAt": "2025-07-02 08:00:00"
+      },
+      {
+        "videoId": "da68UOXfQ_s",
+        "teamName": "AGSQUAD",
+        "viewCount": 584218,
+        "commentCount": 10007,
+        "collectedAt": "2025-07-02 09:00:00"
+      },
+      {
+        "videoId": "da68UOXfQ_s",
+        "teamName": "AGSQUAD",
+        "viewCount": 654924,
+        "commentCount": 10642,
+        "collectedAt": "2025-07-02 10:00:00"
+      },
+      {
+        "videoId": "da68UOXfQ_s",
+        "teamName": "AGSQUAD",
+        "viewCount": 727944,
+        "commentCount": 11200,
+        "collectedAt": "2025-07-02 11:00:00"
+      },
+      {
+        "videoId": "da68UOXfQ_s",
+        "teamName": "AGSQUAD",
+        "viewCount": 793403,
+        "commentCount": 11861,
+        "collectedAt": "2025-07-02 12:00:00"
+      },
+      {
+        "videoId": "da68UOXfQ_s",
+        "teamName": "AGSQUAD",
+        "viewCount": 860851,
+        "commentCount": 12449,
+        "collectedAt": "2025-07-02 13:00:00"
+      },
+      {
+        "videoId": "da68UOXfQ_s",
+        "teamName": "AGSQUAD",
+        "viewCount": 922006,
+        "commentCount": 13209,
+        "collectedAt": "2025-07-02 14:00:00"
+      },
+      {
+        "videoId": "da68UOXfQ_s",
+        "teamName": "AGSQUAD",
+        "viewCount": 985684,
+        "commentCount": 13799,
+        "collectedAt": "2025-07-02 15:00:01"
+      },
+      {
+        "videoId": "da68UOXfQ_s",
+        "teamName": "AGSQUAD",
+        "viewCount": 1051748,
+        "commentCount": 14256,
+        "collectedAt": "2025-07-02 16:00:00"
+      },
+      {
+        "videoId": "da68UOXfQ_s",
+        "teamName": "AGSQUAD",
+        "viewCount": 1102478,
+        "commentCount": 14691,
+        "collectedAt": "2025-07-02 17:00:00"
+      },
+      {
+        "videoId": "da68UOXfQ_s",
+        "teamName": "AGSQUAD",
+        "viewCount": 1157153,
+        "commentCount": 15025,
+        "collectedAt": "2025-07-02 18:00:00"
+      },
+      {
+        "videoId": "da68UOXfQ_s",
+        "teamName": "AGSQUAD",
+        "viewCount": 1207559,
+        "commentCount": 15465,
+        "collectedAt": "2025-07-02 19:00:00"
+      },
+      {
+        "videoId": "da68UOXfQ_s",
+        "teamName": "AGSQUAD",
+        "viewCount": 1256684,
+        "commentCount": 15910,
+        "collectedAt": "2025-07-02 20:00:00"
+      },
+      {
+        "videoId": "da68UOXfQ_s",
+        "teamName": "AGSQUAD",
+        "viewCount": 1297566,
+        "commentCount": 16291,
+        "collectedAt": "2025-07-02 21:00:00"
+      },
+      {
+        "videoId": "da68UOXfQ_s",
+        "teamName": "AGSQUAD",
+        "viewCount": 1351842,
+        "commentCount": 16639,
+        "collectedAt": "2025-07-02 22:00:00"
+      },
+      {
+        "videoId": "da68UOXfQ_s",
+        "teamName": "AGSQUAD",
+        "viewCount": 1398509,
+        "commentCount": 17020,
+        "collectedAt": "2025-07-02 23:00:00"
+      }
+    ]
+  }
+}

@@ -1,0 +1,58 @@
+[
+  {
+    "teamName": "MOTIV",
+    "videoId": "Eq12SwjR25s",
+    "viewCount": 1462376,
+    "rawLikes": 173200,
+    "score": 18782376,
+    "viewCollectedAt": "2025-07-05 18:00:00",
+    "likeCollectedAt": "2025-07-05 17:50:52",
+    "rawLikesDiff": 200,
+    "viewCountDiff": 173,
+    "scoreDiff": 20173,
+    "rawHalfLikes": 86600,
+    "rawHalfScores": 10122376
+  },
+  {
+    "teamName": "AGSQUAD",
+    "videoId": "da68UOXfQ_s",
+    "viewCount": 2451780,
+    "rawLikes": 262800,
+    "score": 28731780,
+    "viewCollectedAt": "2025-07-05 18:00:00",
+    "likeCollectedAt": "2025-07-05 17:59:19",
+    "rawLikesDiff": 0,
+    "viewCountDiff": 455,
+    "scoreDiff": 455,
+    "rawHalfLikes": 131400,
+    "rawHalfScores": 15591780
+  },
+  {
+    "teamName": "OSAKA_OjoGang",
+    "videoId": "-DYg4IjGLUk",
+    "viewCount": 2673866,
+    "rawLikes": 181000,
+    "score": 20773866,
+    "viewCollectedAt": "2025-07-05 18:00:00",
+    "likeCollectedAt": "2025-07-05 17:56:58",
+    "rawLikesDiff": 600,
+    "viewCountDiff": 381,
+    "scoreDiff": 60381,
+    "rawHalfLikes": 90500,
+    "rawHalfScores": 11723866
+  },
+  {
+    "teamName": "BUMSUP",
+    "videoId": "8ZpL_uXnYGQ",
+    "viewCount": 2800141,
+    "rawLikes": 256200,
+    "score": 28420141,
+    "viewCollectedAt": "2025-07-05 18:00:00",
+    "likeCollectedAt": "2025-07-05 17:57:59",
+    "rawLikesDiff": 0,
+    "viewCountDiff": 395,
+    "scoreDiff": 395,
+    "rawHalfLikes": 128100,
+    "rawHalfScores": 15610141
+  }
+]
