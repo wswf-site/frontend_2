@@ -65,7 +65,7 @@ onMounted(() => {
 
 <template>
   <div class="page-wrapper">
-    <router-link to="/dance-film" class="back-link">← 돌아가기</router-link>
+    <router-link to="/wswf/dance-film" class="back-link">← 돌아가기</router-link>
     <div class="blank" style="margin-bottom: 10px"></div>
     <h2 class="page-title">
       <span class="stat-label"> DANCE FILM MISSION 상세 통계</span><br />

@@ -105,7 +105,7 @@ onMounted(() => {
 
 <template>
   <div>
-    <router-link to="/" class="home-link">← 미션 선택 페이지로 돌아가기</router-link>
+    <router-link to="/wswf" class="home-link">← 미션 선택 페이지로 돌아가기</router-link>
     <h2 style="margin-top: 15px; margin-bottom: 8px">📣 Crew Cheer Theme Performance</h2>
     <div v-if="videos.length" style="margin-bottom: 16px">
       ⏱️ 조회 수 마지막 수집 시각: <strong>{{ getLatestCollectedAt }}</strong>
@@ -148,7 +148,7 @@ onMounted(() => {
           <tr v-for="video in videos" :key="video.videoId">
             <td>{{ video.rank }}</td>
             <td>
-              <router-link :to="`/crew-cheer/video/${video.videoId}`">
+              <router-link :to="`/wswf/crew-cheer/video/${video.videoId}`">
                 {{ video.teamName }}
               </router-link>
             </td>
@@ -196,7 +196,7 @@ onMounted(() => {
             <tr v-for="video in videos" :key="video.videoId">
               <td>{{ video.rank }}</td>
               <td>
-                <router-link :to="`/crew-cheer/video/${video.videoId}`">
+                <router-link :to="`/wswf/crew-cheer/video/${video.videoId}`">
                   {{ video.teamName }}
                 </router-link>
               </td>
@@ -267,7 +267,7 @@ onMounted(() => {
             <template v-if="!row.isDiff">
               <td>{{ row.rank }}</td>
               <td>
-                <router-link :to="`/crew-cheer/video/${row.videoId}`">
+                <router-link :to="`/wswf/crew-cheer/video/${row.videoId}`">
                   {{ row.teamName }}
                 </router-link>
               </td>

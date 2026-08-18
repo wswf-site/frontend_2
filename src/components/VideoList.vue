@@ -90,7 +90,7 @@ const videosWithDiffRows = computed(() => {
 
 <template>
   <div>
-    <router-link to="/" class="home-link">← 미션 선택 페이지로 돌아가기</router-link>
+    <router-link to="/wswf" class="home-link">← 미션 선택 페이지로 돌아가기</router-link>
     <h2 style="margin-top: 15px; margin-bottom: 8px">♦️ DANCE FILM MISSION</h2>
     <div v-if="videos.length" style="margin-bottom: 16px">
       ⏱️ 조회 수 마지막 수집 시각: <strong>{{ getLatestCollectedAt() }}</strong>
@@ -125,7 +125,7 @@ const videosWithDiffRows = computed(() => {
         <tr v-for="video in videos" :key="video.videoId">
           <td>{{ video.rank }}</td>
           <td>
-            <router-link :to="`/dance-film/video/${video.videoId}`">
+            <router-link :to="`/wswf/dance-film/video/${video.videoId}`">
               {{ video.teamName }}
             </router-link>
           </td>
@@ -172,7 +172,7 @@ const videosWithDiffRows = computed(() => {
           <tr v-for="video in videos" :key="video.videoId">
             <td>{{ video.rank }}</td>
             <td>
-              <router-link :to="`/dance-film/video/${video.videoId}`">
+              <router-link :to="`/wswf/dance-film/video/${video.videoId}`">
                 {{ video.teamName }}
               </router-link>
             </td>
@@ -239,7 +239,7 @@ const videosWithDiffRows = computed(() => {
           <template v-if="!row.isDiff">
             <td>{{ row.rank }}</td>
             <td>
-              <router-link :to="`/dance-film/video/${row.videoId}`">
+              <router-link :to="`/wswf/dance-film/video/${row.videoId}`">
                 {{ row.teamName }}
               </router-link>
             </td>

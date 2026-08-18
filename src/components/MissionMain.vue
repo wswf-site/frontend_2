@@ -2,13 +2,13 @@
   <div class="mission-selection">
     <h2>미션을 선택해주세요.</h2>
     <div class="mission-cards">
-      <router-link to="/crew-cheer" class="mission-card">
+      <router-link to="/wswf/crew-cheer" class="mission-card">
         <h3>Crew Cheer Theme Performance</h3>
       </router-link>
-      <router-link to="/api-mission" class="mission-card">
+      <router-link to="/wswf/api-mission" class="mission-card">
         <h3>Global Artist Performance MISSION</h3>
       </router-link>
-      <router-link to="/dance-film" class="mission-card">
+      <router-link to="/wswf/dance-film" class="mission-card">
         <h3>
           DANCE FILM<br />
           MISSION

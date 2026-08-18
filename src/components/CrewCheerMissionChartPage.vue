@@ -132,7 +132,7 @@ watch(
 
 <template>
   <div class="page-wrapper">
-    <router-link to="/crew-cheer" class="back-link">← 돌아가기</router-link>
+    <router-link to="/wswf/crew-cheer" class="back-link">← 돌아가기</router-link>
     <div class="blank" style="margin-bottom: 10px"></div>
     <h2 class="page-title">
       <span class="stat-label"> Crew Cheer Theme Performance 상세 통계</span>

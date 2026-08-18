@@ -1,8 +1,9 @@
 <script setup>
-import { RouterView } from 'vue-router'
+import { RouterView, useRoute } from 'vue-router'
 import { ref } from 'vue'
 
 const showMegaCrewTable = ref(false)
+const route = useRoute()
 
 // K-POP 미션 데이터 추가
 const kpopMissionData = ref([
@@ -25,7 +26,16 @@ const megaCrewData = ref([
 </script>
 
 <template>
-  <div class="main-container">
+  <nav class="global-nav" aria-label="주요 메뉴">
+    <RouterLink to="/" class="nav-home-link">HOME</RouterLink>
+    <span class="nav-link nav-link-disabled" aria-disabled="true">SDF</span>
+    <RouterLink to="/wswf" class="nav-link">WSWF</RouterLink>
+    <RouterLink to="/likes-info" class="nav-link nav-likes-info">좋아요 수 추정 방법</RouterLink>
+  </nav>
+
+  <RouterView v-if="!route.path.startsWith('/wswf')" />
+
+  <div v-else class="main-container">
     <div style="padding: 20px">
       <h1>🎬 MISSION DASHBOARD</h1>
       <RouterView />
@@ -39,7 +49,7 @@ const megaCrewData = ref([
       시각이 나옵니다.
     </div>
 
-    <div class="accuracy-info-box">
+    <div v-if="false" class="accuracy-info-box">
       <p>
         <strong>⚠️ 좋아요 수는 값이 정확하지 않습니다.</strong>
         <br />
@@ -138,6 +148,45 @@ const megaCrewData = ref([
 </template>
 
 <style scoped>
+.global-nav {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  min-height: 56px;
+  padding: 0 24px;
+  background: #fff;
+  border-bottom: 1px solid #e9ecef;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.06);
+}
+
+.nav-home-link,
+.nav-link {
+  padding: 8px 12px;
+  border-radius: 6px;
+  color: #495057;
+  font-size: 0.9rem;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.nav-home-link {
+  color: #007bff;
+}
+.nav-home-link:hover,
+.nav-link:hover {
+  background: #f1f3f5;
+}
+.nav-link-disabled {
+  color: #adb5bd;
+  cursor: not-allowed;
+}
+.nav-likes-info {
+  margin-left: auto;
+  color: #9aa0a6;
+}
 /* --- 전체 레이아웃 및 기본 스타일 --- */
 .main-container {
   max-width: 800px;
